@@ -104,7 +104,6 @@ Android Bazer Canfarence 2015 Summerにおいての手伝い
 - Monaca
 - react.js
 - Iot
-- 
 
 ## 心がけていること
 
